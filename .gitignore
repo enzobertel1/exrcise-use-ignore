@@ -1,7 +1,7 @@
 node_modules/
 
 #ignore all files starting with z
-z*.*
+z*
 
 #ignore all files with .end 
 *.end
