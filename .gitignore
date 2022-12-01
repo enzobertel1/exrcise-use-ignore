@@ -1,8 +1,6 @@
 
 #ignore all files starting with z
-z*
-
-#ignore all files with .end 
-.end
+z*,
+.end,
 
 /artifatcs/
