@@ -6,4 +6,4 @@ z*
 .end
 
 #ignore directory Artifact
-/[Aa]rtifatcs/
+/[Aa]rtifatcs/**
