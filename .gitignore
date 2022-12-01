@@ -1,6 +1,5 @@
-#ignrore .end file
-.end
-
+#ignrore .env file
+.env
 #ignore all files starting with z
 z*
 
