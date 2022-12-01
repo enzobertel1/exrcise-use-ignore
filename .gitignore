@@ -1,9 +1,6 @@
-
 #ignore all files starting with z
 z*
-
 #ignrore .end file
 .end
-
 #ignore directory Artifact
 **/[Aa]rtifatcs/
