@@ -4,6 +4,6 @@ node_modules/
 z*
 
 #ignore all files with .end 
-*.end
+.end
 
-/artifatcs
+/artifatcs/
